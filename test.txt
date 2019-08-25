@@ -1,3 +1,3 @@
  master create new object
-I want to change A apple two
+I want to change A apple
  A banner
